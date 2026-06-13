@@ -18,7 +18,7 @@ By Month 2, we will deploy an API-based scheduling and recording tool capable of
 
 3. **Project Management Dashboard**
 
-By Month 3, we will finalize a project dashboard for UAT. To clarify roles and mitigate time-management risks, it enables teams to track 5+ milestones, targeting a 90% adoption rate for regular task updates.
+By Month 3, we will finalize a project dashboard for UAT (User Acceptance Testing). To clarify roles and mitigate time-management risks, it enables teams to track 5+ milestones, targeting a 90% adoption rate for regular task updates.
 
 
 ## 2. Stakeholders and Roles
@@ -29,8 +29,8 @@ By Month 3, we will finalize a project dashboard for UAT. To clarify roles and m
 
 | Name	| Role	| Tasks & Responsibilities	| Additional Tasks |
 | :-----| :---- | :------------------------ | :--------------- |
-| Haitham |	Project Manager	| • Project planning <br> • Task management and distribution <br> • Progress tracking <br> • Team coordination <br> • Documentation supervision <br> • Workflow management across all project phases <br> • Supporting collaboration between Sections |• Server-side security <br> • Project Structure Setup |
-| Layla <br><br> Afnan | Backend |• Backend architecture development <br> • Database management <br> • API development and integration <br> • System logic implementation <br> • Supporting backend performance and stability <br> • Collaborating with team members on shared development tasks | • UI/UX Design for the Dashboard |
+| Haitham |	Project Manager	| • Project planning <br> • Task management and distribution <br> • Progress tracking <br> • Team coordination <br> • Documentation supervision <br> • Workflow management across all project phases <br> • Supporting collaboration between Sections |• Server-side security <br> • Project Structure Setup <br> • Designer |
+| Layla <br><br> Afnan | Backend |• Backend architecture development <br> • Database management <br> • API development and integration <br> • System logic implementation <br> • Supporting backend performance and stability <br> • Collaborating with team members on shared development tasks | • UI/UX Design for the Dashboard (Layla) <br> • UX design (Afnan) |
 | Fai |	Frontend |	• Frontend development <br> • User interface implementation <br> • User experience improvements <br> • Maintaining visual consistency across the platform <br> • Cross-functional collaboration and shared development support | • Database Design and Development <br> • Documentation Supervision
 
 **Note:** Roles and responsibilities were assigned to improve organization, task distribution, and workflow clarity within the project. However, all team members collaboratively contribute to different aspects of the development process.
@@ -39,11 +39,7 @@ By Month 3, we will finalize a project dashboard for UAT. To clarify roles and m
 
 - Idea Owners (Product Visionaries): Individuals or entities who possess a validated concept or business requirement. They are seeking technical execution and are expected to act as the ongoing Product Owner during development.
 
-- Technical Contributors (Developers): Specialized developers (e.g., Front-end, Back-end) looking for practical, real-world projects to build and enhance their portfolios.
-
-- Creative Contributors (UI/UX Designers): Design professionals utilizing tools like Figma to build user interfaces, craft user experiences, and hand off prototypes to developers.
-
-- Project Facilitators (Scrum Masters/Managers): Individuals focused on task organization, managing the platform's dashboard, and ensuring the team hits their milestones.
+- Dynamic Project Teams: A collaborative network of multi-disciplinary professionals including technical developers, UI/UX designers, project facilitators, and other specialized talents who are dynamically assembled into tailored teams to build real-world projects and elevate their portfolios.
 
 
 ## 3. Scopes
@@ -55,7 +51,7 @@ Provide a secure environment to share the ideas and collaborations between users
 
 - Project Management Dashboard: A centralized hub for teams to create execution plans, track milestones, and manage progress.
 
-- Communication System: Two distinct live chat systems serving separate purposes.
+- Communication System: Live chat system serving separate purposes.
 
 ### Out-of-Scope
 
