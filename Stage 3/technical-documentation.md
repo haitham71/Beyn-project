@@ -1007,7 +1007,6 @@ The architecture separates the system into independent components: frontend, bac
 ----
 
 # Source Code Management (SCM) & Quality Assurance (QA) Strategy
-**Bayn Platform — Technical Documentation**
 
 ---
 
