@@ -475,6 +475,7 @@ erDiagram
     string more_info
     uuid specialization_id FK
     uuid industry_id FK
+    datetime availibility
     bool is_hidden
     datetime created_at
     datetime updated_at
