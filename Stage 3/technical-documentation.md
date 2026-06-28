@@ -793,9 +793,9 @@ S3-compatible storage. Object keys (not full URLs) are stored in the database. F
 
 ### Contracts (NDA)
 
-> **Internal endpoint — external services called behind the scenes.**
+> **An external API built by the team to connect with an internal enpoint within the platform. To the user, the NDA contracts feature appears from the main platform but is acually from a separeate server connected to the platform.**
 > The client only submits a base64 PNG signature and receives a status response.
-> All external calls (R2 upload, PDF generation, Gmail email) are invisible to the frontend.
+> All external calls (R2 upload, PDF generation, email) are invisible to the frontend.
 
 | Method | Endpoint | Auth | Description |
 |---|---|---|---|
