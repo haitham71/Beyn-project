@@ -52,6 +52,7 @@
 
 - As a talent provider, I want a skill-based recommendation engine and access to hackathons, so that I can discover projects and challenges faster.
 
-## Mockups
+## Design guide
 
-![1](<./Stage 3/Design and Mockups/1.png>)
+![Design Guide 1](https://github.com/haitham71/Beyn-project/blob/main/Stage%203/Design%20and%20Mockups/1.png?raw=true)
+![Design Guide 2](https://github.com/haitham71/Beyn-project/blob/main/Stage%203/Design%20and%20Mockups/2.png?raw=true)
