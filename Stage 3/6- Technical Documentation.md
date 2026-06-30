@@ -569,7 +569,6 @@ erDiagram
     string content
     string file_url
     uuid mentioned_user_id FK
-    bool is_deleted
     datetime created_at
   }
 
@@ -942,7 +941,6 @@ S3-compatible storage. Object keys (not full URLs) are stored in the database. F
       "content": "Welcome to the project!",
       "file_url": null,
       "mentioned_user_id": null,
-      "is_deleted": false,
       "created_at": "2026-06-24T10:00:00.000Z"
     },
     {
@@ -953,7 +951,6 @@ S3-compatible storage. Object keys (not full URLs) are stored in the database. F
       "content": null,
       "file_url": "https://r2.bayn.sa/chat/project-uuid/2026/06/brief.pdf",
       "mentioned_user_id": null,
-      "is_deleted": false,
       "created_at": "2026-06-24T10:05:00.000Z"
     }
   ],
